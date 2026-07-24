@@ -1,0 +1,30 @@
+#chandan{
+    color: blue;
+    background-color: yellow;
+    border: 5px double black;
+    margin-bottom: 50px;
+}
+
+#vibha{
+    color: red;
+    background-color: lightcoral;
+    border-top: 10px solid black;
+    border-bottom:5px dashed red ;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#span-element{
+    color: green;
+    background-color: lightgreen;
+    border: 5px solid black;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+    margin-bottom: 50px;
+
+}
+
+.youtube{
+    margin: 50px;
+}
